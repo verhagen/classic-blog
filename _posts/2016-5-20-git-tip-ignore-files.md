@@ -4,8 +4,6 @@ title: Git Tip - Ignore files and directories for Java development
 ---
 
 
-## Introduction
-
 When developing a (Java) project, with git, you mostly do not want all files to end up in the got  project repository. To let git ignore certain 
 files and or directories add them to the file `.gitignore`. This file is then added to the git repository, so all developers can use it.
 
