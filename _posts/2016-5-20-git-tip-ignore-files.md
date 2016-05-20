@@ -14,6 +14,8 @@ developers can use it.
 - Create a file `.gitignore` in the root of the project (working directory). And add rules like to ones below, for a tipical Java project. Here 
   Eclipse, IntelliJ and Maven specific directories will be ignored.
 
+{% highlight ruby %}
+
 	# Generic
 	tmp/
 	
@@ -28,6 +30,8 @@ developers can use it.
 	# IntelliJ Configuration
 	.idea/
 	*.iml
+{% endhighlight %}
+
 
 ### Explanation
 
