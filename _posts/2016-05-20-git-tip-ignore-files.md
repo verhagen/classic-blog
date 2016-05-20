@@ -15,21 +15,20 @@ developers can use it.
   Eclipse, IntelliJ and Maven specific directories will be ignored.
 
 {% highlight ruby %}
+# Generic
+tmp/
 
-	# Generic
-	tmp/
-	
-	# Maven Configuration
-	target/
-	
-	# Eclipse Configuration
-	.settings/
-	.classpath
-	.project
-	
-	# IntelliJ Configuration
-	.idea/
-	*.iml
+# Maven Configuration
+target/
+
+# Eclipse Configuration
+.settings/
+.classpath
+.project
+
+# IntelliJ Configuration
+.idea/
+*.iml
 {% endhighlight %}
 
 
