@@ -11,8 +11,8 @@ developers can use it.
 
 ## Action Plan
 
-- Create a file `.gitignore` in the root of the project (working directory). And add rules like to ones below, for a tipical Java project. Here 
-  Eclipse, IntelliJ and Maven specific directories will be ignored.
+- Create a file `.gitignore` in the root of the project (working directory). And add rules like to ones below, for a typical
+Java project. Here Eclipse, IntelliJ and Maven specific directories will be ignored.
 
 {% highlight ruby %}
 # Generic
