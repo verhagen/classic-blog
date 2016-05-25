@@ -43,7 +43,7 @@ public class Project {
 
 }
 
-![alt text](https://github.com/verhagen/verhagen.github.io/raw/master/images/eclipse-preferences-java-template-slf4j-00.jpeg "Eclipse Preferences - Java Template - slf4j")
+![alt text](https://raw.githubusercontent.com/verhagen/verhagen.github.io/master/images/eclipse/eclipse-preferences-java-template-slf4j-00.jpeg "Eclipse Preferences - Java Template - slf4j")
 
 ### Export Java Templates
 
