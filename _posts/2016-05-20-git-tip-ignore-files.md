@@ -20,6 +20,10 @@ tmp/
 
 # Maven Configuration
 target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.next
+release.properties
 
 # Eclipse Configuration
 .settings/
