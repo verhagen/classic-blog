@@ -24,7 +24,9 @@ public class Application {
 		/*
 		 * Multi line comment.
 		 */
-		System.out.println();
+		System.out.println("Some text");
+		char c = 'x';
+		int i = 100;
 	}
 
 }
