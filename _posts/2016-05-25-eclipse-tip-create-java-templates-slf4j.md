@@ -42,6 +42,9 @@ public class Project {
 	private static Logger logger = LoggerFactory.getLogger(Project.class);
 
 }
+{% endhighlight %}
+
+- Press button __OK__ to close the dialog
 
 ![Eclipse Preferences]({{ site.url }}/images/eclipse/eclipse-preferences-java-template-slf4j-00.jpeg)
 
