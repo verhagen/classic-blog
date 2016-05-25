@@ -42,8 +42,8 @@ public class Project {
 	private static Logger logger = LoggerFactory.getLogger(Project.class);
 
 }
-{% endhighlight %}
 
+![alt text](https://github.com/verhagen/verhagen.github.io/raw/master/images/eclipse-preferences-java-template-slf4j-00.jpeg "Eclipse Preferences - Java Template - slf4j")
 
 ### Export Java Templates
 
