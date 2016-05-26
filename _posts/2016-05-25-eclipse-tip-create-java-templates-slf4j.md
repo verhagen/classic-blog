@@ -35,6 +35,14 @@ ${:import(org.slf4j.Logger, org.slf4j.LoggerFactory)}
 - Open a Java class
 - Jump to just below the opening line of the class
 - On a new line enter __logg__ and press <ctrl>-<space> to see code suggestions
+
+{% highlight java linenos=table %}
+public class Project {
+	logg
+
+}
+{% endhighlight %}
+
 - From the list select the _logger_ template
 - Now a new line with the logger instance should be there, including the required imports
 
