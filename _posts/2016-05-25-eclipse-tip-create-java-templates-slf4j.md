@@ -38,7 +38,7 @@ ${:import(org.slf4j.Logger, org.slf4j.LoggerFactory)}
 
 {% highlight java linenos=table %}
 public class Project {
-	logg
+    logg
 
 }
 {% endhighlight %}
@@ -51,7 +51,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 public class Project {
-	private static Logger logger = LoggerFactory.getLogger(Project.class);
+    private static Logger logger = LoggerFactory.getLogger(Project.class);
 
 }
 {% endhighlight %}
