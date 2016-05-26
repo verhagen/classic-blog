@@ -23,7 +23,11 @@ private static Logger logger = LoggerFactory.getLogger(${enclosing_type}.class);
 ${:import(org.slf4j.Logger, org.slf4j.LoggerFactory)}
 {% endhighlight %}
 
+![Eclipse Preferences]({{ site.url }}/images/eclipse/eclipse-preferences-java-template-slf4j-01.jpeg)
+
 - Press button __OK__ to close the dialog
+
+![Eclipse Preferences]({{ site.url }}/images/eclipse/eclipse-preferences-java-template-slf4j-00.jpeg)
 
 
 ### Use the Logger Template
@@ -44,11 +48,9 @@ public class Project {
 }
 {% endhighlight %}
 
-- Press button __OK__ to close the dialog
-
-![Eclipse Preferences]({{ site.url }}/images/eclipse/eclipse-preferences-java-template-slf4j-00.jpeg)
 
 ### Export Java Templates
+
 
 ### Import Java Templates
 
