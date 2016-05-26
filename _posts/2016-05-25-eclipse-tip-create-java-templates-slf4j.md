@@ -34,7 +34,7 @@ ${:import(org.slf4j.Logger, org.slf4j.LoggerFactory)}
 
 - Open a Java class
 - Go to the location where you want to declare the logging instance
-- On a new line enter __logg__ and press ctrl-space to see code suggestions
+- On a new line enter __logg__ and press _ctrl-space_ to see code suggestions
 
 ![Eclipse Preferences]({{ site.url }}/images/eclipse/eclipse-preferences-java-template-slf4j-02.jpeg)
 
