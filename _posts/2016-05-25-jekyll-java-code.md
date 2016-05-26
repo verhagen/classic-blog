@@ -4,6 +4,8 @@ title: Sample Java Code in Jekyll
 ---
 Show some Java code example in Jekyll based site.
 
+<kbd>CTRL</kbd>+<kbd>Z</kbd>
+
 {% highlight java %}
 package org.organisation.project;
 
