@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Eclipse Tip: Add Maven Archetypes Catalog
+title: Eclipse Tip - Add Maven Archetypes Catalog
 ---
 When an Archetype is not found, through the default defined Archetype catalogs, you can add an
 additional remote or local catalog.
