@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Git Tip - Ignore files and directories for Java development
+title: Git Tip - Ignore Specific Files and Directories
 ---
 
-
 When developing a (Java) project, you mostly do not want all files to end up in the git repository. To let git ignore certain 
-files and / or hole directories add them to the file `.gitignore`. This file is then added to the git repository, so all
+files and / or hole directories, add them to the file `.gitignore`. This file is then added to the git repository, so all
 developers can use it.
+
+Typical files that should not end up in a git repository, are configuration files of tools used during development. For Java projects these are tipical Eclipse configuration, IntelliJ configuration and the Maven `target` directory.
 
 
 ## Action Plan
