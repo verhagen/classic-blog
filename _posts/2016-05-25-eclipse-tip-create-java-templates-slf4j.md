@@ -61,8 +61,6 @@ public class Project {
 
 <ul>
     {% for tag in page.tags %}
-      <li>tag</li>
+      <li>{{ tag }}</li>
     {% endfor %}
 </ul>
-
-{{ page.tags }}
