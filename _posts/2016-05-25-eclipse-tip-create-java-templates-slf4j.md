@@ -66,13 +66,7 @@ public class Project {
 </ul>
 
 <ul>
-    {% for cat in page.categories %}
-        <li>{{ cat }}</li>
-    {% endfor %}
-</ul>
-
-<ul>
     {% for post in site.tags.eclipse %}
-        <li>{{ post }}</li>
+        <li>{{ post.title }}</li>
     {% endfor %}
 </ul>
