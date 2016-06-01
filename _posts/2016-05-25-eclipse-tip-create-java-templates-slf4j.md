@@ -61,6 +61,12 @@ public class Project {
 
 <ul>
     {% for tag in page.tags %}
-      <li>{{ tag }}</li>
+        <li>{{ tag }}</li>
+    {% endfor %}
+</ul>
+
+<ul>
+    {% for post in site.tags.ECLIPSE %}
+        <li>{{ post }}</li>
     {% endfor %}
 </ul>
