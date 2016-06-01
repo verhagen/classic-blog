@@ -58,9 +58,3 @@ public class Project {
 
 
 ### Import Java Templates
-
-<ul>
-    {% for post in site.categories.eclipse-tip %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-</ul>
