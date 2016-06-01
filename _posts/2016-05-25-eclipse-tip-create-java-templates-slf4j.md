@@ -60,13 +60,7 @@ public class Project {
 ### Import Java Templates
 
 <ul>
-    {% for tag in page.tags %}
-        <li>{{ tag }}</li>
-    {% endfor %}
-</ul>
-
-<ul>
-    {% for post in site.tags.eclipse %}
-        <li>{{ post.title }}</li>
+    {% for post in site.categories.eclipse-tip %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
