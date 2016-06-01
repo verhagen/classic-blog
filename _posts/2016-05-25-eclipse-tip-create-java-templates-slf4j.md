@@ -59,3 +59,10 @@ public class Project {
 
 ### Import Java Templates
 
+<ul>
+    {% for tag in page.tags %}
+      <li>tag</li>
+    {% endfor %}
+</ul>
+
+{{ page.tags }}
