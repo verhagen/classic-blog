@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Eclipse Tip - Install Jetty through Marketplace
+tags: [eclipse, tip]
 ---
 For easy deployment and running of Web-Application (war) projects on [Jetty](http://www.eclipse.org/jetty/) from within Eclipse, install the [Eclipse Jetty](http://marketplace.eclipse.org/content/eclipse-jetty?mpc=true&mpc_state=) feature.
 
