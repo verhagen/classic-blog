@@ -7,7 +7,7 @@ When developing a (Java) project, you mostly do not want all files to end up in 
 files and / or hole directories, add them to the file `.gitignore`. This file is then added to the git repository, so all
 developers can use it.
 
-Typical files that should not end up in a git repository, are configuration files of tools used during development. For Java projects these are tipical Eclipse configuration, IntelliJ configuration and the Maven `target` directory.
+Typical files that should not end up in a git repository, are configuration files of tools used during development. For Java projects these are typical Eclipse configuration, IntelliJ configuration and the Maven `target` directory.
 
 
 ## Action Plan
