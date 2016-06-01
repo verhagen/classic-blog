@@ -2,6 +2,11 @@
 layout: post
 title: Eclipse Tip - Java Template - Simple Logging Facade for Java (slf4j)
 ---
+--- categories
+[eclipse, tip]
+--- tags
+[eclipse, tip]
+
 Create a Java editor template for creating a slf4j logger instance.
 
 
