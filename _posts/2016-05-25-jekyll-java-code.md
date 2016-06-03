@@ -34,3 +34,5 @@ public class Application {
 }
 {% endhighlight %}
 
+
+[![_config.yml]({{ site.baseurl }}/images/config.png)]({{ site.baseurl }}/images/config.png)
