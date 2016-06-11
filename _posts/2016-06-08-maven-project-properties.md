@@ -9,10 +9,10 @@ Add the properties `project.build.sourceEncoding` and `project.reporting.outputE
 # Setting the Source and Output Encoding to UTF-8
 
 {% highlight plain text %}
-	<properties>
-		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-	    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
-		...
-	</properties>
+        ...
+    </properties>
 {% endhighlight %}
