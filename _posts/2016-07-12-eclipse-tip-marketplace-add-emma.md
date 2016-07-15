@@ -25,5 +25,5 @@ For checking the [Code Coverage](http://martinfowler.com/bliki/TestCoverage.html
 ![Eclipse Marketplace]({{ site.url }}/images/eclipse/code-coverage-emma/eclipse-marketplace-emma-03.jpeg)
 - At the end of the installation the dialog _Software Updates_ shows
 - Use button __Yes__ to restart Eclipse  
-![Eclipse Marketplace]({{ site.url }}/images/eclipse/code-coverage-emma/eclipse-marketplace-emma-04.jpeg)
   __TIP__ In case you want to install more Eclipse features, you can do so without restarting
+![Eclipse Marketplace]({{ site.url }}/images/eclipse/code-coverage-emma/eclipse-marketplace-emma-04.jpeg)
